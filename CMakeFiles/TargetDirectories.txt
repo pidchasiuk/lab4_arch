@@ -1,0 +1,4 @@
+/home/ann/lab4/CMakeFiles/rebuild_cache.dir
+/home/ann/lab4/CMakeFiles/cpp_demo.dir
+/home/ann/lab4/CMakeFiles/edit_cache.dir
+/home/ann/lab4/CMakeFiles/chucknorris.dir
